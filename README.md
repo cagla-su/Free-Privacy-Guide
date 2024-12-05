@@ -18,4 +18,13 @@ Hello. In this guide, you will be informed about **privacy** while using your **
       - `ReloadedOS`
     - My personal suggestion is **CrDroid** since it is **not too barebone** that needs configuration and it has **highly customizable tools**. Also from my personal experiences, my **Xiaomi Redmi Note 8** runs perfectly in terms of smooth performance and good battery life **only on CrDroid**. Also, CrDroid ROM **is maintained for lots of devices**. Assuming you installed CrDroid, let's continue.
     - CrDroid doesn't have **Google Play Services** installed which means you are **unable** to use **location services, google play applications and push notifications**. That's why, I suggest you to use **MicroG:**
-      - MicroG is an ** open source re-implementation of Google services and libraries** and all you have to do is **installing .apk files from the website**. It is so easy!
+
+### MicroG
+- MicroG is an **open source re-implementation of Google services and libraries** and all you have to do is **installing .apk files from the** [website](https://microg.org/download.html). It is so easy! Also, **Huawei** devices can also use MicroG! However, if you want to use MicroG on **another custom ROM**, you should take a look at [this article](https://github.com/microg/GmsCore/wiki/Signature-Spoofing), otherwise, MicroG **won't work** on your device!!!
+  - After installing MicroG, you should change **microG Settings app's** battery optimization to `Unrestricted`.
+    - Next, simply log in your Google account inside the app and open your system's **Settings** app.
+      - After opening settings, go to `Passwords, passkeys & autofill` and click on your google account. Next, go to `Account preferences` and enable the two options you see.
+    - Now go back to **microG Settings app** and enable **Google device registration, Cloud Messaging and Google SafetyNet**.
+      - For Location modules, you need to install **Nominatim** from **F-Droid**. This is mandatory to be able to use map. For the network-based geolocation module, I suggest you to install **Apple UnifiedNlp Backend UnifiedNlp location provider (Apple Wi-Fi)** from **F-Droid**. After installing, go back to **microG Settings app** and go to **Location modules**, next, enable `Nominatim` and `Apple Wi-Fi`.
+- After these steps, that's all you could do for an android experience with privacy.
+## Other Methods 
