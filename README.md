@@ -17,7 +17,7 @@ Hello. In this guide, you will be informed about **privacy** while using your **
       - `Paranoid Android`
       - `ReloadedOS`
     - My personal suggestion is **CrDroid** since it is **not too barebone** that needs configuration and it has **highly customizable tools** and it has some of the **CAF** optimizations. Also from my personal experiences, my **Xiaomi Redmi Note 8** runs perfectly in terms of smooth performance and good battery life **only on CrDroid**. Also, CrDroid ROM **is maintained for lots of devices**. Assuming you installed CrDroid, let's continue.
-    - CrDroid doesn't have **Google Play Services** installed which means you are **unable** to use **location services, google play applications and push notifications**. That's why, I suggest you to use **MicroG:**
+    - CrDroid doesn't have **Google Play Services** installed which means you are **unable** to use **location services, google play applications and push notifications**. That's why, I suggest you to use **MicroG**
 
 ### MicroG
 - MicroG is an **open source re-implementation of Google services and libraries** and all you have to do is **installing .apk files from the** [website](https://microg.org/download.html). It is so easy! Also, **Huawei** devices can also use MicroG! However, if you want to use MicroG on **another custom ROM**, you should take a look at [this article](https://github.com/microg/GmsCore/wiki/Signature-Spoofing), otherwise, MicroG **won't work** on your device!!!
@@ -45,3 +45,5 @@ Now we can talk about easier steps.
 - **Microsoft Office / WPS Office** - `OnlyOffice`
 - **YouTube Android App** - `YouTube ReVanced`
 - **Discord Desktop App** - `Vesktop`
+# Conclusion
+This was my completely free privacy guide. I hope it was useful for you. Have a nice day!
