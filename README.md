@@ -36,11 +36,12 @@ Now we can talk about easier steps.
 - **Using A 2FA (Two Factor Authenticator)** My suggestion is using [Ente Auth](https://ente.io/auth/), it is **open source and free**.
 - **Encrypting Your Personal Files In Your Google Drive:** I assume you're using Google Drive because it provides the most free storage. We can keep your files in Google Drive private. All you have to do are **archiving** and **encrypting** your folders using your archiver app on your computer and uploading them to Google Drive.
 ### Some Alternatives
-- **Google Search Engine** - **DuckDuckGo**
-- **Google Chrome** - **Firefox or any Firefox based browser**
-- **Google Play Store** - **Aurora Store and F-Droid**
-- **Gboard Keyboard** - **AOSP Keyboard**
-- **Google Photos** - **Ente Photos**
+- **Google Search Engine** - `DuckDuckGo`
+- **Google Chrome** - `Firefox or any Firefox based browser. My suggestion is using Zen Browser`
+- **Google Play Store** - `Aurora Store and F-Droid`
+- **Gboard Keyboard** - `AOSP Keyboard`
+- **Google Photos** - `Ente Photos`
 - **Google Maps** - Unfortunately, I don't think there is a better alternative. Sorry 🥺
-- **YouTube Android App** - **YouTube ReVanced**
-- **Discord Desktop App** - **Vesktop**
+- **Microsoft Office / WPS Office** - `OnlyOffice`
+- **YouTube Android App** - `YouTube ReVanced`
+- **Discord Desktop App** - `Vesktop`
