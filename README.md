@@ -1,5 +1,7 @@
 # Completely Free Privacy Guide
-Hello. In this guide, you will be informed about **privacy** while using your **computer** or **mobile devices**. Nowadays, many companies such as Microsoft and Google collect too much personal information, so you might want to have more privacy while using your devices. For **100%** privacy, unfortunately you should either use one of your devices for hosting (such as for making your own e-mail domain instead of using @gmail.com, for your own cloud storage etc.) or pay for certain services. However, I will show you **completely free** ways for privacy. Let's begin!
+- Hello 🤭. In this guide, you will be informed about **privacy** while using your **computer** or **mobile devices**.
+- Nowadays, many companies such as Microsoft and Google collect too much personal information, so you might want to have more privacy while using your devices.
+- For **100%** privacy, unfortunately you should either use one of your devices for hosting (such as for making your own e-mail domain instead of using @gmail.com, @outlook.com etc. or for your own cloud storage etc.) or pay for certain services. However, I will show you **completely free** ways for privacy. Let's begin!
 ## For Computers
 - For privacy on computers, I suggest you to use **Linux**. Linux distributions **respect your privacy** and they are **free**. Using computer for **daily use** is 100% possible on Linux, gaming is also possible (not 100%). So, if your concern about switching to Linux is it being not good enough for gaming, you can check my [Linux Gaming Guide](https://github.com/cutiepenguins/Linux-Gaming-Guide) to feel relieved.
 - However, you might not want to get out of your comfort zone. In this case:
