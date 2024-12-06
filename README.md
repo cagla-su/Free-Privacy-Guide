@@ -52,4 +52,4 @@ Now we can talk about easier steps.
 - **YouTube Android App** `-` **YouTube ReVanced**
 - **Discord Desktop App** `-` **Vesktop**
 # Conclusion
-This was my completely free privacy guide. I hope it was useful for you. Have a nice day! 🐧
+This guide was about a completely free privacy guide. I hope it has been useful for you. Have a nice day! 🐧
