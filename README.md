@@ -1,4 +1,4 @@
-# Completely Free Privacy Guidehttps://perception-point.io/guides/email-security/email-security-threats-solutions-8-critical-best-practices/#Common_Threats_to_Email_Security
+# Completely Free Privacy Guide
 - Hello 🤭. In this guide, you will be informed about **privacy** while using your **computer** or **mobile devices**.
 - Nowadays, many companies such as **Microsoft** and **Google** collect **too much** personal information, so you might want to have more privacy while using your devices.
 - For **100%** privacy, unfortunately you should either use one of your devices for hosting or pay for certain services.
