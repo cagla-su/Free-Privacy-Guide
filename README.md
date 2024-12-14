@@ -31,22 +31,21 @@
       - After opening settings, go to `Passwords, passkeys & autofill` and click on your google account. Next, go to `Account preferences` and enable the two options you see.
     - Now go back to **microG Settings app** and enable **Google device registration, Cloud Messaging and Google SafetyNet**.
       - For Location modules, you need to install `Nominatim` from **F-Droid**. This is mandatory to be able to use map.
-      - For the network-based geolocation module, I suggest you to install `Apple UnifiedNlp Backend UnifiedNlp location provider (Apple Wi-Fi)` from **F-Droid**. After installing, go back to **microG Settings app** and go to `Location modules`, next, enable `Nominatim` and `Apple Wi-Fi`.
+      - For the network-based geolocation module, I suggest you to install `Apple UnifiedNlp Backend UnifiedNlp location provider (Apple Wi-Fi)` from **F-Droid** (sorry it's not open source but it is a strong option). After installing, go back to **microG Settings app** and go to `Location modules`, next, enable `Nominatim` and `Apple Wi-Fi`.
 - The last step after configuring MicroG is installing a **store app**. My suggestion is [Aurora Store](https://auroraoss.com/), it's an **open source Play Store alternative** and it **doesn't send any telemetry to Google**.
 - After these steps, that's all you could do for an android experience with privacy.
 ## Other Methods 
-Now we can talk about easier steps.
-- **Using A Private DNS:** My suggestion is [NextDNS](https://nextdns.io/)
-- **Using A VPN:** while it doesn't hide anything from your internet provider, it can keep you private from websites. My suggestion is using [ProtonVPN](https://protonvpn.com/), it is **open source, free and really fast**.
+- **Using A Private DNS:** My suggestions are using either [WARP](https://one.one.one.one/) or [NextDNS](https://nextdns.io/)
+- **Using A VPN:** Free VPNs don't provide **enough privacy**, however among free VPN services, my suggestion is [ProtonVPN](https://protonvpn.com/). If you really need further privacy, you should prefer **paid** VPN services such as [MULLVAD VPN](https://mullvad.net/en).
 - **Using An E-Mail Client:**. My suggestion is using [Thunderbird](https://www.thunderbird.net/en-US/).
 - **Using A 2FA (Two Factor Authenticator)** My suggestion is using [Ente Auth](https://ente.io/auth/), it is **open source and free**.
-- **Encrypting Your Personal Files In Your Google Drive:** I assume you're using Google Drive because it provides the most free storage. We can keep your files in Google Drive private. All you have to do are **archiving** and **encrypting** your folders using your archiver app on your computer and uploading them to Google Drive.
 ### Some Alternatives
 - **Google Search Engine** `-` **DuckDuckGo**
 - **Google Chrome** `-` **Firefox or any Firefox based browser. My suggestion is using Zen Browser**
 - **Google Play Store** `-` **Aurora Store and F-Droid**
 - **Gboard Keyboard** `-` **AOSP Keyboard**
 - **Google Photos** `-` **Ente Photos**
+- **Google Drive** `-` **MEGA**
 - **Google Maps** `-` **Unfortunately, I don't think there is a better alternative. Sorry** 🥺
 - **Microsoft Office / WPS Office** `-` **OnlyOffice**
 - **YouTube Android App** `-` **YouTube ReVanced**
