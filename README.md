@@ -35,10 +35,12 @@
 - The last step after configuring MicroG is installing a **store app**. My suggestion is [Aurora Store](https://auroraoss.com/), it's an **open source Play Store alternative** and it **doesn't send any telemetry to Google**.
 - After these steps, that's all you could do for an android experience with privacy.
 ## Other Methods 
-- **Using A Private DNS:** My suggestions are using either [WARP](https://one.one.one.one/) or [NextDNS](https://nextdns.io/)
-- **Using A VPN:** Free VPNs don't provide **enough privacy**, however among free VPN services, my suggestion is [ProtonVPN](https://protonvpn.com/). If you really need further privacy, you should prefer **paid** VPN services such as [MULLVAD VPN](https://mullvad.net/en).
-- **Using An E-Mail Client:**. My suggestion is using [Thunderbird](https://www.thunderbird.net/en-US/).
-- **Using A 2FA (Two Factor Authenticator)** My suggestion is using [Ente Auth](https://ente.io/auth/), it is **open source and free**.
+- **Using a Private DNS:** My suggestions are using either [WARP](https://one.one.one.one/) or [NextDNS](https://nextdns.io/)
+- **Using a VPN:** Free VPNs don't provide **enough privacy**, however among free VPN services, my suggestion is [ProtonVPN](https://protonvpn.com/). If you really need further privacy, you should prefer **paid** VPN services such as [MULLVAD VPN](https://mullvad.net/en).
+- **Using an E-Mail Client:**. My suggestion is using [Thunderbird](https://www.thunderbird.net/en-US/).
+- **Using a 2FA (Two Factor Authenticator):** My suggestion is using [Ente Auth](https://ente.io/auth/), it is **open source and free**.
+- **Using an Ad Blocker:** If you're using **Android**, I suggest you to use [AdAway](https://f-droid.org/en/packages/org.adaway/). For your **web browser**, [uBlock Origin](https://ublockorigin.com/) is the only viable option.
+  - However if you're using a **Chromium based** browser such as Chrome, Edge, Arc etc. installing an ad blocker from **Google Web Store** will not work! You should use a **Firefox based** browser for full functionality. For further information, visit [uBlock Origin Wiki](https://www.reddit.com/r/uBlockOrigin/wiki/index/).
 ### Some Alternatives
 - **Google Search Engine** `-` **DuckDuckGo**
 - **Google Chrome** `-` **Firefox or any Firefox based browser. My suggestion is using Zen Browser**
