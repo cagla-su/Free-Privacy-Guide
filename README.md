@@ -23,7 +23,7 @@
       - `Paranoid Android`
       - `ReloadedOS`
     - My personal suggestion is **CrDroid** since it is **not too barebone** that needs configuration and it has **highly customizable tools** and it has **some of the CAF optimizations**. Also from my personal experiences, my **Xiaomi Redmi Note 8** runs perfectly in terms of smooth performance and good battery life **only on CrDroid**. Also, CrDroid ROM **is maintained for lots of devices**. Assuming you installed CrDroid, let's continue.
-    - CrDroid doesn't have **Google Play Services** installed which means you are **unable** to use **location services, google play applications and push notifications**. That's why, I suggest you to use **MicroG**. You can check [my MicroG Guide](https://github.com/cutiepenguins/MicroG-Guide) if you're interested.
+    - CrDroid and all other **Vanilla** custom ROMs don't have **Google Play Services and Libraries** installed which means you are **unable** to use **location services, google play applications and push notifications**. That's why, I suggest you to use **MicroG**. You can check [my MicroG Guide](https://github.com/cutiepenguins/MicroG-Guide) if you're interested.
       - After installing MicroG, that's all you could do for an android experience with privacy.
 ## Other Methods (Regardless of Operating Systems)
 - **Using a Private DNS:** My suggestions are using either [WARP](https://one.one.one.one/) or [NextDNS](https://nextdns.io/)
