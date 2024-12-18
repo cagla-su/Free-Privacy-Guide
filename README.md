@@ -41,6 +41,16 @@
 - **Google Drive** `-` **MEGA**
 - **Google Maps** `-` **Organic Maps** `but if you have issues with it (could be because you're in an unpopulous area), you can prefer Google Maps without logging in.`
 - **Microsoft Office / WPS Office** `-` **OnlyOffice**
+- **Adobe Products**
+  - **Photoshop** `-` **GIMP or Photopea**
+  - **Lightroom** `-` **Krita or Darktable**
+  - **Illustrator** `-` **Inkscape**
+  - **Premiere** `-` **Kdenlive or Shotcut**
+  - **After Effects** `-` **Blender**
+  - **Audition** `-` **Audacity**
+  - **Acrobat Reader and Editor** `-` **Okular**
+  - **Dreamweaver** `-` **Visual Studio Code or VSCodium**
+- **Notion** `-` **Joplin**
 - **YouTube Android App** `-` **YouTube ReVanced**
 - **Discord Desktop App** `-` **Vesktop**
 # Conclusion
