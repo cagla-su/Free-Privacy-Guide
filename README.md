@@ -23,27 +23,16 @@
       - `Paranoid Android`
       - `ReloadedOS`
     - My personal suggestion is **CrDroid** since it is **not too barebone** that needs configuration and it has **highly customizable tools** and it has **some of the CAF optimizations**. Also from my personal experiences, my **Xiaomi Redmi Note 8** runs perfectly in terms of smooth performance and good battery life **only on CrDroid**. Also, CrDroid ROM **is maintained for lots of devices**. Assuming you installed CrDroid, let's continue.
-    - CrDroid doesn't have **Google Play Services** installed which means you are **unable** to use **location services, google play applications and push notifications**. That's why, I suggest you to use **MicroG**
-
-### MicroG
-- MicroG is an **open source re-implementation of Google services and libraries** that respects your privacy and all you have to do is **installing .apk files from the** [website](https://microg.org/download.html). It is so easy! Also, **Huawei** devices can also use MicroG! However, if you want to use MicroG on **another custom ROM**, you should take a look at [this article](https://github.com/microg/GmsCore/wiki/Signature-Spoofing), otherwise, MicroG **won't work** on your device!!!
-  - After installing MicroG, you should change **microG Settings app's** battery optimization to `Unrestricted`.
-    - Next, simply log in your Google account inside the app and open your system's **Settings** app.
-      - After opening settings, go to `Passwords, passkeys & autofill` and click on your google account. Next, go to `Account preferences` and enable the two options you see.
-    - Now go back to **microG Settings app** and enable **Google device registration, Cloud Messaging and Google SafetyNet**.
-      - For Location modules, you need to install `Nominatim` from **F-Droid**. This is mandatory to be able to use maps.
-      - For the network-based geolocation module, I suggest you to install `Apple UnifiedNlp Backend` and `Local NLP Backend` from **F-Droid**. After installing, go back to **microG Settings app** and go to `Location modules`, next, enable `Nominatim`, `Local NLP Backend` and `Apple Wi-Fi`.
-        - Apple UnifiedNlp Backend is **proprietary** but as you might know, maps are not joke. So, we have to search for the best option possible. Apple's option is the only viable one in this case. But it's okay because Apple will only have your map data, not your personal data.
- - The last step after configuring MicroG is installing a **store app**. My suggestion is [Aurora Store](https://auroraoss.com/), it's an **open source Play Store alternative** and it **doesn't send any telemetry to Google**.
-- After these steps, that's all you could do for an android experience with privacy.
-## Other Methods 
+    - CrDroid doesn't have **Google Play Services** installed which means you are **unable** to use **location services, google play applications and push notifications**. That's why, I suggest you to use **MicroG**. You can check [my MicroG Guide](https://github.com/cutiepenguins/MicroG-Guide) if you're interested.
+      - After installing MicroG, that's all you could do for an android experience with privacy.
+## Other Methods (Regardless of Operating Systems)
 - **Using a Private DNS:** My suggestions are using either [WARP](https://one.one.one.one/) or [NextDNS](https://nextdns.io/)
 - **Using a VPN:** Free VPNs don't provide **enough privacy**, however [ProtonVPN](https://protonvpn.com/) is an exception. You can use it comfortably.
 - **Using an E-Mail Client:**. My suggestion is using [Thunderbird](https://www.thunderbird.net/en-US/).
 - **Using a 2FA (Two Factor Authenticator):** My suggestion is using [Ente Auth](https://ente.io/auth/), it is **open source and free**.
 - **Using an Ad Blocker:** If you're using **Android**, I suggest you to use [AdAway](https://f-droid.org/en/packages/org.adaway/). For your **web browser**, [uBlock Origin](https://ublockorigin.com/) is the only viable option.
   - However if you're using a **Chromium based** browser such as Chrome, Edge, Arc etc. installing an ad blocker from **Google Web Store** will not work! You should use a **Firefox based** browser for full functionality. For further information, visit [uBlock Origin Wiki](https://www.reddit.com/r/uBlockOrigin/wiki/index/).
-### Some Alternatives
+### Some Privacy Focused and/or Open Source Alternatives
 - **Google Search Engine** `-` **DuckDuckGo**
 - **Google Chrome** `-` **Firefox or any Firefox based browser. My suggestion is using Zen Browser**
 - **Google Play Store** `-` **Aurora Store and F-Droid**
