@@ -3,7 +3,7 @@
 - Nowadays, many companies such as **Microsoft** and **Google** collect **too much** personal information, so you might want to have more privacy while using your devices.
 - For **100%** privacy, unfortunately you should either use one of your devices for hosting or pay for certain services.
   - What I mean by using a device for hosting can be using your own **e-mail domain** instead of using `@gmail.com, @outlook.com etc.` so your e-mails will be more secure and private
-    - **Caution:** see potential risks while using an e-mail client: [go to the link](https://perception-point.io/guides/email-security/email-security-threats-solutions-8-critical-best-practices/#Common_Threats_to_Email_Security))
+    - **Caution:** see potential risks while using an e-mail client: [go to the link](https://perception-point.io/guides/email-security/email-security-threats-solutions-8-critical-best-practices/#Common_Threats_to_Email_Security)
   - or using your own **unlimited and encrypted cloud storage etc.** This is a free way since you're hosting everything locally but you have to keep your device running all the time and not everyone has additional devices for hosting.
   - If you don't want to do local hosting, there are services that deliver **100% unlimited and private features** but they are paid.
 - However, I will show you **completely free** ways for privacy. So, let's begin!
