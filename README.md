@@ -31,8 +31,9 @@
       - After opening settings, go to `Passwords, passkeys & autofill` and click on your google account. Next, go to `Account preferences` and enable the two options you see.
     - Now go back to **microG Settings app** and enable **Google device registration, Cloud Messaging and Google SafetyNet**.
       - For Location modules, you need to install `Nominatim` from **F-Droid**. This is mandatory to be able to use map.
-      - For the network-based geolocation module, I suggest you to install `Apple UnifiedNlp Backend UnifiedNlp location provider (Apple Wi-Fi)` from **F-Droid** (sorry it's not open source but it is a strong option). After installing, go back to **microG Settings app** and go to `Location modules`, next, enable `Nominatim` and `Apple Wi-Fi`.
-- The last step after configuring MicroG is installing a **store app**. My suggestion is [Aurora Store](https://auroraoss.com/), it's an **open source Play Store alternative** and it **doesn't send any telemetry to Google**.
+      - For the network-based geolocation module, I suggest you to install `Apple UnifiedNlp Backend` and `Local NLP Backend` from **F-Droid**. After installing, go back to **microG Settings app** and go to `Location modules`, next, enable `Nominatim`, `Local NLP Backend` and `Apple Wi-Fi`.
+        - Apple UnifiedNlp Backend is **proprietary** but as you might know, maps are not joke. So, we have to search for the best option possible. Apple's option is the only viable one in this case. But it's okay because Apple will only have your map data, not your personal data.
+ - The last step after configuring MicroG is installing a **store app**. My suggestion is [Aurora Store](https://auroraoss.com/), it's an **open source Play Store alternative** and it **doesn't send any telemetry to Google**.
 - After these steps, that's all you could do for an android experience with privacy.
 ## Other Methods 
 - **Using a Private DNS:** My suggestions are using either [WARP](https://one.one.one.one/) or [NextDNS](https://nextdns.io/)
@@ -48,7 +49,7 @@
 - **Gboard Keyboard** `-` **AOSP Keyboard**
 - **Google Photos** `-` **Ente Photos**
 - **Google Drive** `-` **MEGA**
-- **Google Maps** `-` **Unfortunately, I don't think there is a better alternative. Sorry** 🥺
+- **Google Maps** `-` **Organic Maps** but if you have issues with it (could be because you're in an unpopulous area), you can prefer Google Maps without logging in.
 - **Microsoft Office / WPS Office** `-` **OnlyOffice**
 - **YouTube Android App** `-` **YouTube ReVanced**
 - **Discord Desktop App** `-` **Vesktop**
