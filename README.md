@@ -47,10 +47,10 @@
 - **Google Search Engine** `-` **DuckDuckGo**
 - **Google Chrome** `-` **Firefox or any Firefox based browser. My suggestion is using Zen Browser**
 - **Google Play Store** `-` **Aurora Store and F-Droid**
-- **Gboard Keyboard** `-` **AOSP Keyboard**
+- **Gboard Keyboard** `-` **AOSP Keyboard** `but it can be hard to get used to AOSP keyboard, so you can keep using Gboard as it now lets you to stop sending telemetry to Google.`
 - **Google Photos** `-` **Ente Photos**
 - **Google Drive** `-` **MEGA**
-- **Google Maps** `-` **Organic Maps** but if you have issues with it (could be because you're in an unpopulous area), you can prefer Google Maps without logging in.
+- **Google Maps** `-` **Organic Maps** `but if you have issues with it (could be because you're in an unpopulous area), you can prefer Google Maps without logging in.`
 - **Microsoft Office / WPS Office** `-` **OnlyOffice**
 - **YouTube Android App** `-` **YouTube ReVanced**
 - **Discord Desktop App** `-` **Vesktop**
