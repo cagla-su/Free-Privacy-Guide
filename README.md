@@ -33,13 +33,15 @@
 - **Using an Ad Blocker:** If you're using **Android**, I suggest you to use [AdAway](https://f-droid.org/en/packages/org.adaway/). For your **web browser**, [uBlock Origin](https://ublockorigin.com/) is the only viable option.
   - However if you're using a **Chromium based** browser such as Chrome, Edge, Arc etc. installing an ad blocker from **Google Web Store** will not work! You should use a **Firefox based** browser for full functionality. For further information, visit [uBlock Origin Wiki](https://www.reddit.com/r/uBlockOrigin/wiki/index/).
 ### Some Privacy Focused and/or Open Source Alternatives
-- **Google Search Engine** `-` **DuckDuckGo**
-- **Google Chrome** `-` **Firefox or any Firefox based browser. My suggestion is using Zen Browser**
-- **Google Play Store** `-` **Aurora Store and F-Droid**
-- **Gboard Keyboard** `-` **AOSP Keyboard** `but it can be hard to get used to AOSP keyboard, so you can keep using Gboard as it now lets you to stop sending telemetry to Google.`
-- **Google Photos** `-` **Ente Photos**
-- **Google Drive** `-` **MEGA**
-- **Google Maps** `-` **Organic Maps** `but if you have issues with it (could be because you're in an unpopulous area), you can prefer Google Maps without logging in.`
+- **Google Products**
+  - **Google Search Engine** `-` **DuckDuckGo**
+  - **Google Play Store** `-` **Aurora Store and F-Droid**
+  - **Google Chrome** `-` **Firefox or any Firefox based browser**
+  - **Gboard Keyboard** `-` **AOSP Keyboard** `but it can be hard to get used to AOSP keyboard, so you can keep using Gboard as it now lets you to stop sending telemetry to Google.`
+  - **Google Photos** `-` **Ente Photos**
+  - **Google Drive** `-` **MEGA**
+  -  **Google Maps** `-` **Organic Maps** `but if you have issues with it (could be because you're in an unpopulous area), you can prefer Google Maps without logging in.`
+  - **Google Password Manager** `-` **Bitwarden Password Manager**
 - **Microsoft Office / WPS Office** `-` **OnlyOffice**
 - **Adobe Products**
   - **Photoshop** `-` **GIMP or Photopea**
@@ -53,5 +55,7 @@
 - **Notion** `-` **Joplin**
 - **YouTube Android App** `-` **YouTube ReVanced**
 - **Discord Desktop App** `-` **Vesktop**
+- **CCleaner** `-` **Bleachbit**
+- **uTorrent** `-` **qBittorrent**
 # Conclusion
 This guide was about a completely free privacy guide. I hope it has been useful for you. Have a nice day! 🐧
