@@ -31,7 +31,7 @@
     - Next, simply log in your Google account inside the app and open your system's **Settings** app.
       - After opening settings, go to `Passwords, passkeys & autofill` and click on your google account. Next, go to `Account preferences` and enable the two options you see.
     - Now go back to **microG Settings app** and enable **Google device registration, Cloud Messaging and Google SafetyNet**.
-      - For Location modules, you need to install `Nominatim` from **F-Droid**. This is mandatory to be able to use map.
+      - For Location modules, you need to install `Nominatim` from **F-Droid**. This is mandatory to be able to use maps.
       - For the network-based geolocation module, I suggest you to install `Apple UnifiedNlp Backend` and `Local NLP Backend` from **F-Droid**. After installing, go back to **microG Settings app** and go to `Location modules`, next, enable `Nominatim`, `Local NLP Backend` and `Apple Wi-Fi`.
         - Apple UnifiedNlp Backend is **proprietary** but as you might know, maps are not joke. So, we have to search for the best option possible. Apple's option is the only viable one in this case. But it's okay because Apple will only have your map data, not your personal data.
  - The last step after configuring MicroG is installing a **store app**. My suggestion is [Aurora Store](https://auroraoss.com/), it's an **open source Play Store alternative** and it **doesn't send any telemetry to Google**.
