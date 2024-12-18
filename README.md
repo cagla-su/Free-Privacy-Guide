@@ -36,7 +36,7 @@
 - After these steps, that's all you could do for an android experience with privacy.
 ## Other Methods 
 - **Using a Private DNS:** My suggestions are using either [WARP](https://one.one.one.one/) or [NextDNS](https://nextdns.io/)
-- **Using a VPN:** Free VPNs don't provide **enough privacy**, however among free VPN services, my suggestion is [ProtonVPN](https://protonvpn.com/). If you really need further privacy, you should prefer **paid** VPN services such as [MULLVAD VPN](https://mullvad.net/en).
+- **Using a VPN:** Free VPNs don't provide **enough privacy**, however [ProtonVPN](https://protonvpn.com/) is an exception. You can use it comfortably.
 - **Using an E-Mail Client:**. My suggestion is using [Thunderbird](https://www.thunderbird.net/en-US/).
 - **Using a 2FA (Two Factor Authenticator):** My suggestion is using [Ente Auth](https://ente.io/auth/), it is **open source and free**.
 - **Using an Ad Blocker:** If you're using **Android**, I suggest you to use [AdAway](https://f-droid.org/en/packages/org.adaway/). For your **web browser**, [uBlock Origin](https://ublockorigin.com/) is the only viable option.
