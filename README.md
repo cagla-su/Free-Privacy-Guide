@@ -37,7 +37,7 @@
   - **Google Search Engine** `-` **DuckDuckGo**
   - **Google Play Store** `-` **Aurora Store and F-Droid**
   - **Google Chrome or any other Chromium based browser** `-` **Firefox or any Firefox based browser**
-  - **Gboard Keyboard** `-` **AOSP Keyboard** `but it can be hard to get used to AOSP keyboard, so you can keep using Gboard as it now lets you to stop sending telemetry to Google.`
+  - **Gboard Keyboard** `-` **AOSP Keyboard** `but it can be hard to get used to AOSP keyboard, so you can keep using Gboard as it now lets you disable sending telemetry to Google.`
   - **Google Photos** `-` **Ente Photos**
   - **Google Drive** `-` **MEGA**
   -  **Google Maps** `-` **Organic Maps** `but if you have issues with it (could be because you're in an unpopulous area), you can prefer Google Maps without logging in.`
