@@ -36,7 +36,7 @@
 - **Google Products**
   - **Google Search Engine** `-` **DuckDuckGo**
   - **Google Play Store** `-` **Aurora Store and F-Droid**
-  - **Google Chrome or Any Other Chromium Based Browser** `-` **Firefox or any Firefox based browser**
+  - **Google Chrome or any other Chromium based browser** `-` **Firefox or any Firefox based browser**
   - **Gboard Keyboard** `-` **AOSP Keyboard** `but it can be hard to get used to AOSP keyboard, so you can keep using Gboard as it now lets you to stop sending telemetry to Google.`
   - **Google Photos** `-` **Ente Photos**
   - **Google Drive** `-` **MEGA**
