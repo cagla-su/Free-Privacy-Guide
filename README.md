@@ -28,7 +28,7 @@
 - **Using an E-Mail Client:**. My suggestion is using [Thunderbird](https://www.thunderbird.net/en-US/).
 - **Using a 2FA (Two Factor Authenticator):** My suggestion is using [Ente Auth](https://ente.io/auth/), it is **open source and free**.
 - **Using an Ad Blocker:** If you're using **Android**, I suggest you to use [AdAway](https://f-droid.org/en/packages/org.adaway/). For your **web browser**, [uBlock Origin](https://ublockorigin.com/) is the only viable option.
-  - However if you're using a **Chromium based** browser such as Chrome, Edge, Arc etc. installing an ad blocker from **Google Web Store** will not work! You should either use [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) a **Firefox based** browser for full functionality. For further information, visit [uBlock Origin Wiki](https://www.reddit.com/r/uBlockOrigin/wiki/index/).
+  - However if you're using a **Chromium based** browser such as Chrome, Edge, Arc etc. installing an ad blocker from **Google Web Store** will not work! You should either use [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) or a **Firefox based** browser for full functionality. For further information, visit [uBlock Origin Wiki](https://www.reddit.com/r/uBlockOrigin/wiki/index/).
 ### Some Privacy Focused and/or Open Source Alternatives
 - **Google Products**
   - **Google Search Engine** `-` **DuckDuckGo**
