@@ -57,4 +57,4 @@
 - **CCleaner** `-` **Bleachbit**
 - **uTorrent** `-` **qBittorrent**
 # Conclusion
-This guide was about a completely free privacy guide. I hope it has been useful for you. Have a nice day! 🐧
+This guide was about a completely free privacy guide. I hope the guide has been useful. Thank you for reading, have a nice day! 🐧
