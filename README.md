@@ -1,39 +1,41 @@
 # Completely Free Privacy Guide
-- Hello 🤭. In this guide, you will be informed about **privacy** while using your **computer** or **mobile devices**.
-- Nowadays, many companies such as **Microsoft** and **Google** collect **too much** personal information, so you might want to have more privacy while using your devices.
-- For **100%** privacy, unfortunately you should either use one of your devices for hosting or pay for certain services.
-- However, I will show you **completely free** ways for privacy. So, let's begin!
+- Hello 🤭. In this guide, you will be informed about **better privacy** while using your **computer** or **mobile devices**.
+- Nowadays, most of the companies such as **Microsoft** and **Google** collect **too much** personal information, so you might want to have more privacy while using your devices.
+- **100%** privacy requires payments. This guide aims to show you **completely free** ways for better privacy, which means you **won't be 100% private** following this guide. However, it surely will help you become more private.
+- So, let's begin!
 ## For Computers
-- For privacy on computers, I suggest you to use **Linux**. Linux distributions **respect your privacy** and they are **free**. Using computer for **daily use** is 100% possible on Linux, gaming is also possible (not 100%). So, if your concern about switching to Linux is it being not good enough for gaming, you can check my [Linux Gaming Guide](https://github.com/cutiepenguins/Linux-Gaming-Guide) to feel relieved.
+- For privacy on computers, I suggest you use **Linux**. Linux distributions **respect your privacy** and they are **free**.
+  - Linux is pretty much enough for **daily driving** and **gaming**. If your concern about switching to Linux is it being not good enough for gaming, you can check my [Linux Gaming Guide](https://github.com/cutiepenguins/Linux-Gaming-Guide) to feel satisfied about it.
 - However, you might not want to get out of your comfort zone. In this case:
-  - If you're using **MacOS**, you can apply basic steps like [explained in this article](https://www.practicalmoneyskills.com/en/resources/data_privacy/device-privacy-tips/How-Protect-Privacy-Mac.html).
-  - If you're using **Windows**, you can use [Chris Titus' Windows Utility](https://github.com/ChrisTitusTech/winutil), the utility also has cool features that increase performance.
+  - If you are using **MacOS**, you can apply the basic steps [explained in this article](https://www.practicalmoneyskills.com/en/resources/data_privacy/device-privacy-tips/How-Protect-Privacy-Mac.html).
+  - If you are using **Windows**, you can use [Chris Titus' Windows Utility](https://github.com/ChrisTitusTech/winutil), the utility also has cool features that increase performance.
 ## For Mobile Devices
-- If you're using a device that has **iOS**, you can [follow this guide](https://github.com/iPrivacyGuides/iOS-Privacy-Guide)
-- If you're using a device that has **Android**, I definitely suggest you to install a **custom ROM**. However if you don't want to install a custom ROM, you can [follow this guide](https://veepn.com/blog/10-android-privacy-settings/) basically and skip this step. If you will install a custom ROM, keep reading the step.
-  - There are different kinds of custom roms. Those are:
-    - `AOSP` - **Android Open Source Project :** This is the barebone android that Google shares the source code of. Those ROMs are generally lightweight. Some AOSP based ROM examples are:
-      - `LineageOS`
-      - `CrDroid`
-      - `ArrowOS`
-    - `CAF` - **Code Aurora Forum :** CAF ROMs are also **AOSP based** but they have specific optimizations for **Qualcomm devices (Snapdragon CPUs)** that deliver **smoothness, better performance, better RAM management** and **better battery life**. Some CAF based ROM examples are:
-      - `Paranoid Android`
-      - `ReloadedOS`
-    - My personal suggestion is **CrDroid** since it is **not too barebone** that needs configuration and it has **highly customizable tools** with **some of the CAF optimizations**. Also from my personal experiences, my **Xiaomi Redmi Note 8** runs perfectly in terms of smooth performance and good battery life **only on CrDroid**. Also, CrDroid ROM **is maintained for lots of devices**. Assuming you installed CrDroid, let's continue.
-    - CrDroid and all other **Vanilla** custom ROMs don't have **Google Play Services and Libraries** installed which means you are **unable** to use **location services, google play applications and push notifications**. That's why, I suggest you to use **MicroG**. You can check [my MicroG Guide](https://github.com/cutiepenguins/MicroG-Guide) if you're interested.
-      - After installing MicroG, that's all you could do for an android experience with privacy.
+- If you are using a device that has **iOS**, you can [follow this guide](https://github.com/iPrivacyGuides/iOS-Privacy-Guide)
+- If you are using a device that has **Android**, I definitely suggest you install a **custom ROM**.
+  - However if you don't want to install a custom ROM, you can basically [follow this guide](https://veepn.com/blog/10-android-privacy-settings/) and skip this step. If you decided to use a custom ROM, keep reading the step.
+    - There are different kinds of custom roms. Those are:
+      - `AOSP` - **Android Open Source Project :** This is the barebone Android that Google shares the source code of. Those ROMs are generally lightweight. Some AOSP based ROM examples are:
+        - `LineageOS`
+        - `CrDroid`
+        - `ArrowOS`
+      - `CAF` - **Code Aurora Forum :** CAF ROMs are also **AOSP based** but they have specific optimizations for **Qualcomm devices (Snapdragon CPUs)** that deliver **smoothness, better performance, better RAM management** and **better battery life**. Some CAF based ROM examples are:
+        - `Paranoid Android`
+        - `ReloadedOS`
+    - My personal suggestion is **CrDroid** since it is **not too barebone**, which means it doesn't need additional configuration, and it has **highly customizable tools** with **some of the CAF optimizations**. Assuming you installed CrDroid, let's continue.
+    - CrDroid and all other **Vanilla** custom ROMs don't have **Google Play Services and Libraries** installed which means you are **unable** to use **location services, google play applications and push notifications**. That's why, I suggest you use **MicroG**. You can check [my MicroG Guide](https://github.com/cutiepenguins/MicroG-Guide) if you're interested.
+      - After installing MicroG, that's all you could do for an android experience with better privacy.
 ## Other Methods (Regardless of Operating Systems)
 - **Using a Private DNS:** My suggestions are using either [WARP](https://one.one.one.one/) or [NextDNS](https://nextdns.io/)
 - **Using a VPN:** Free VPNs don't provide **enough privacy**, however [ProtonVPN](https://protonvpn.com/) is an exception. You can use it comfortably.
 - **Using an E-Mail Client:**. My suggestion is using [Thunderbird](https://www.thunderbird.net/en-US/).
 - **Using a 2FA (Two Factor Authenticator):** My suggestion is using [Ente Auth](https://ente.io/auth/), it is **open source and free**.
 - **Using an Ad Blocker:** If you're using **Android**, I suggest you to use [AdAway](https://f-droid.org/en/packages/org.adaway/). For your **web browser**, [uBlock Origin](https://ublockorigin.com/) is the only viable option.
-  - However if you're using a **Chromium based** browser such as Chrome, Edge, Arc etc. installing an ad blocker from **Google Web Store** will not work! You should either use [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) or a **Firefox based** browser for full functionality. For further information, visit [uBlock Origin Wiki](https://www.reddit.com/r/uBlockOrigin/wiki/index/).
+  - However if you're using a **Chromium based** browser such as Chrome, Edge, Arc etc. installing an ad blocker from **Google Web Store** won't work! You should either use [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) or a **Firefox based** browser for full functionality. For further information, visit [uBlock Origin Wiki](https://www.reddit.com/r/uBlockOrigin/wiki/index/).
 ### Some Privacy Focused and/or Open Source Alternatives
 - **Google Products**
   - **Google Search Engine** `-` **DuckDuckGo**
   - **Google Play Store** `-` **Aurora Store and F-Droid**
-  - **Google Chrome or any other Chromium based browser** `-` **Firefox or any Firefox based browser**
+  - **Google Chrome or any other Chromium-based browser** `-` **Firefox or any other Firefox-based browser**
   - **Gboard Keyboard** `-` **AOSP Keyboard** `but it can be hard to get used to AOSP keyboard, so you can keep using Gboard as it now lets you disable sending telemetry to Google.`
   - **Google Photos** `-` **Ente Photos**
   - **Google Drive** `-` **MEGA**
@@ -48,7 +50,7 @@
   - **After Effects** `-` **Blender**
   - **Audition** `-` **Audacity**
   - **Acrobat Reader and Editor** `-` **Okular**
-  - **Dreamweaver** `-` **Visual Studio Code or VSCodium**
+  - **Dreamweaver** `-` **VSCodium**
 - **Notion** `-` **Joplin**
 - **YouTube Android App** `-` **YouTube ReVanced**
 - **Discord Desktop App** `-` **Vesktop**
