@@ -14,7 +14,7 @@
   - However if you do not want to install a custom ROM, you can basically [follow this guide](https://veepn.com/blog/10-android-privacy-settings/) and skip this step. If you decided to use a custom ROM, keep reading the step.
     - Custom ROMs are generally more private because they are more barebone compared to stock ROMs. Especially if you are using a vanilla custom ROM, which means a custom ROM with no Google services, you are more private.
     - If you use a vanilla custom ROM, you are going to need Google services for features such as **location, push notifications, play integrity etc.** and in this case, there is a more private open source alternative! It is called **MicroG**.
-      - MicroG is an **open source re-implementation of Google services and libraries** that respects your privacy and consumes **less resources** compared to **Google services and libraries** which grants **better battery life and privacy**. For further information, you can check [my MicroG Guide](https://github.com/cutiepenguins/MicroG-Guide).
+      - MicroG is an **open source re-implementation of Google services and libraries** that respects your privacy and consumes **less resources** compared to **Google services and libraries** which grants **better battery life and privacy**. For further information, you can check [my MicroG Guide](https://github.com/cagla-su/MicroG-Guide).
     - After installing MicroG, that is all you could do for an Android experience with better privacy.
 ## Other Methods (Regardless of Operating Systems)
 - **Using a Private DNS:** My suggestion is using either [WARP](https://one.one.one.one/) or [NextDNS](https://nextdns.io/)
