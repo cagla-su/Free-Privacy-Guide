@@ -4,8 +4,8 @@
 - [For Mobile Devices](https://github.com/cagla-su/Free-Privacy-Guide?tab=readme-ov-file#for-mobile-devices)
 - [Other Methods](https://github.com/cagla-su/Free-Privacy-Guide?tab=readme-ov-file#other-methods)
 - [Privacy-Focused and Open Source Alternatives](https://github.com/cagla-su/Free-Privacy-Guide?tab=readme-ov-file#privacy-focused-and-open-source-alternatives)
-  - [Google Alternatives](https://github.com/cagla-su/Free-Privacy-Guide?tab=readme-ov-file#google-alternatives-)
-  - [Adobe Alternatives](https://github.com/cagla-su/Free-Privacy-Guide?tab=readme-ov-file#adobe-alternatives-)
+  - [Google Alternatives](https://github.com/cagla-su/Free-Privacy-Guide?tab=readme-ov-file#google-alternatives-) <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/29e970cd-e8b7-4125-b0f1-a2144b40d7f9" />
+  - [Adobe Alternatives](https://github.com/cagla-su/Free-Privacy-Guide?tab=readme-ov-file#adobe-alternatives-) <img width="16" height="25" alt="adobe" src="https://github.com/user-attachments/assets/fd0f70db-508b-4696-94e6-179eba051189" />
   - [Other Alternatives](https://github.com/cagla-su/Free-Privacy-Guide?tab=readme-ov-file#other-alternatives)
 - [Conclusion](https://github.com/cagla-su/Free-Privacy-Guide?tab=readme-ov-file#conclusion)
 # Completely Free Privacy Guide
