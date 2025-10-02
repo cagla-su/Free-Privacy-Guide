@@ -3,19 +3,19 @@
 - **100%** privacy requires payment. This guide aims to show you **completely free** ways for better privacy, which means you **will not be 100% private** following this guide. However, it surely will help you become more private.
 - If you are ready, let's begin!
 ## For Computers
-- For privacy on computers, I suggest that you use **Linux**. Linux distributions **respect your privacy** and they are **free**.
-  - Linux does enough for **daily driving** and **gaming**. If your concern about switching to Linux is it being not good enough for gaming, you can check [my Linux Gaming Guide](https://github.com/cagla-su/Linux-Gaming-Guide) to feel satisfied about it.
-- For **MacOS** and **Windows**:
-  - If you are using **MacOS**, you can apply the basic steps [explained in this article](https://www.practicalmoneyskills.com/en/resources/data_privacy/device-privacy-tips/How-Protect-Privacy-Mac.html).
-  - If you are using **Windows**, you can use [Chris Titus' Windows Utility](https://github.com/ChrisTitusTech/winutil), the utility tool also has nice options that increase performance.
+- For privacy on computers, I suggest that you use <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/13c41d80-9a31-462f-b4f4-15f804675464" /> **Linux**. <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/13c41d80-9a31-462f-b4f4-15f804675464" /> Linux distributions **respect your privacy** and they are **free**.
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/13c41d80-9a31-462f-b4f4-15f804675464" /> Linux does enough for **daily driving** and **gaming**. If your concern about switching to <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/13c41d80-9a31-462f-b4f4-15f804675464" /> Linux is it being not good enough for gaming, you can check [my Linux Gaming Guide](https://github.com/cagla-su/Linux-Gaming-Guide) to feel satisfied about it.
+- For <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/e5041e39-b347-4d1e-8a84-5a0f7a4479bb" /> **MacOS** and <img width="16" height="25" alt="a" src="https://github.com/user-attachments/assets/c76bd92a-dc7e-4a1b-93d1-be8baa06402d" /> **Windows**:
+  - If you are using <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/e5041e39-b347-4d1e-8a84-5a0f7a4479bb" /> **MacOS**, you can apply the basic steps [explained in this article](https://www.practicalmoneyskills.com/en/resources/data_privacy/device-privacy-tips/How-Protect-Privacy-Mac.html).
+  - If you are using <img width="16" height="25" alt="a" src="https://github.com/user-attachments/assets/c76bd92a-dc7e-4a1b-93d1-be8baa06402d" /> **Windows**, you can use [Chris Titus' Windows Utility](https://github.com/ChrisTitusTech/winutil), the utility tool also has nice options that increase performance.
 ## For Mobile Devices
-- If you are using an **iOS** device, you can [follow this guide](https://github.com/iPrivacyGuides/iOS-Privacy-Guide)
-- If you are using an **Android** device, I definitely suggest you install a **custom ROM**.
+- If you are using an <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/e5041e39-b347-4d1e-8a84-5a0f7a4479bb" /> **iOS** device, you can [follow this guide](https://github.com/iPrivacyGuides/iOS-Privacy-Guide)
+- If you are using an <img width="16" height="25" alt="image-removebg-preview(1)" src="https://github.com/user-attachments/assets/cec27060-1d67-48e1-8f29-a3a5b639fde8" /> **Android** device, I definitely suggest that you install a **custom ROM**.
   - However if you do not want to install a custom ROM, you can basically [follow this guide](https://veepn.com/blog/10-android-privacy-settings/) and skip this step. If you decided to use a custom ROM, keep reading the step.
-    - Custom ROMs are generally more private because they are more barebone compared to stock ROMs. Especially if you are using a vanilla custom ROM, which means a custom ROM with no Google services, you are more private.
-    - If you use a vanilla custom ROM, you are going to need Google services for features such as **location, push notifications, play integrity etc.** and in this case, there is a more private open source alternative! It is called **MicroG**.
-      - MicroG is an **open source re-implementation of Google services and libraries** that respects your privacy and consumes **less resources** compared to **Google services and libraries** which grants **better battery life and privacy**. For further information, you can check [my MicroG Guide](https://github.com/cagla-su/MicroG-Guide).
-    - After installing MicroG, that is all you could do for an Android experience with better privacy.
+    - When you are using a vanilla custom ROM, which means a custom ROM with no <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/29e970cd-e8b7-4125-b0f1-a2144b40d7f9" /> Google services, you are more private.
+      - If you use a vanilla custom ROM, you are going to need <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/29e970cd-e8b7-4125-b0f1-a2144b40d7f9" /> Google services for features such as **location, push notifications, play integrity etc.** and in this case, there is a more private open source alternative! It is called <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/2acef641-cfdf-4dcd-a5d8-be0eba79d567" /> **MicroG**.
+        - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/2acef641-cfdf-4dcd-a5d8-be0eba79d567" /> MicroG is an **open source re-implementation of <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/29e970cd-e8b7-4125-b0f1-a2144b40d7f9" /> Google services and libraries** that respects your privacy. It consumes **less resources** compared to <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/29e970cd-e8b7-4125-b0f1-a2144b40d7f9" /> **Google services and libraries** which grants **better battery life and privacy**. For further information, you can check [my MicroG Guide](https://github.com/cagla-su/MicroG-Guide).
+      - After installing <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/2acef641-cfdf-4dcd-a5d8-be0eba79d567" /> MicroG, that is all you could do for an <img width="16" height="25" alt="image-removebg-preview(1)" src="https://github.com/user-attachments/assets/cec27060-1d67-48e1-8f29-a3a5b639fde8" /> Android experience with better privacy.
 ## Other Methods (Regardless of Operating Systems)
 - **Using a Private DNS:** My suggestion is using either [WARP](https://one.one.one.one/) or [NextDNS](https://nextdns.io/)
 - **Using a VPN:** Free VPNs do not provide **enough privacy**, however [ProtonVPN](https://protonvpn.com/) is an exception. You can use it comfortably.
@@ -24,29 +24,31 @@
 - **Using an Ad Blocker:** If you are using **Android**, I suggest that you use [AdAway](https://f-droid.org/en/packages/org.adaway/). For your **web browser**, [uBlock Origin](https://ublockorigin.com/) is the only viable option.
   - However if you are using a **Chromium based** browser such as Chrome, Edge, Arc etc. installing an ad blocker from **Google Web Store** will not work! You should either use [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) or a **Firefox based** browser for full functionality. For further information, visit [uBlock Origin Wiki](https://www.reddit.com/r/uBlockOrigin/wiki/index/).
 ### Some Privacy-Focused and/or Open Source Alternatives
-- **Google Products**
-  - **Google Search Engine** `-` **DuckDuckGo**
-  - **Google Play Store** `-` **Aurora Store and F-Droid**
-  - **Google Chrome or any other Chromium-based browser** `-` **Firefox or any other Firefox-based browser**
-  - **Gboard Keyboard** `-` **AOSP Keyboard** `but it can be hard to get used to AOSP keyboard, so you can keep using Gboard as it now lets you disable sending telemetry to Google.`
-  - **Google Photos** `-` **Ente Photos**
-  - **Google Drive** `-` **MEGA**
-  -  **Google Maps** `-` **Organic Maps** `but if you have issues with it (for example because you are in an unpopulous area), you can prefer Google Maps without logging in.`
-  - **Google Password Manager** `-` **Bitwarden Password Manager**
-- **Microsoft Office / WPS Office** `-` **OnlyOffice**
-- **Adobe Products**
-  - **Photoshop** `-` **GIMP or Photopea**
-  - **Lightroom** `-` **Krita or Darktable**
-  - **Illustrator** `-` **Inkscape**
-  - **Premiere** `-` **Kdenlive or Shotcut**
-  - **After Effects** `-` **Blender**
-  - **Audition** `-` **Audacity**
-  - **Acrobat Reader and Editor** `-` **Okular**
-  - **Dreamweaver** `-` **VSCodium**
-- **Notion** `-` **Joplin**
-- **YouTube Android App** `-` **YouTube ReVanced**
-- **Discord Desktop App** `-` **Vesktop**
-- **CCleaner** `-` **Bleachbit**
-- **uTorrent** `-` **qBittorrent**
+- **Google Products** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/29e970cd-e8b7-4125-b0f1-a2144b40d7f9" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/29e970cd-e8b7-4125-b0f1-a2144b40d7f9" /> **Google Search Engine** `-` **DuckDuckGo** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/b37f5575-9ed3-40ac-b28f-612f8dbfb683" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/abd68b9b-79ab-4062-a28c-54edff49e54e" /> **Google Play Store** `-` **Aurora Store <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/4767b4ee-2a98-481b-80e7-ccb25c433619" /> and F-Droid** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/23473d6d-b06e-4a25-904b-5f33ee96b4fc" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/61f24ff7-ab8f-4879-85f3-e1afe27fb2a0" /> **Google Chrome or any other Chromium-based browser** `-` **Firefox or any other Firefox-based browser** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/e8a6430e-9a42-498e-8c10-7fdc22b9e0de" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/5a8fe48c-057c-4e3a-aee7-c447ec68a3ac" /> **Gboard Keyboard** `-` **AOSP Keyboard**
+    - It can be hard to get used to AOSP keyboard. If you want, you can keep using Gboard as it now lets you disable sending telemetry to Google.
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/3c56abfb-31e8-461a-b735-d873807448b7" /> **Google Photos** `-` **Ente Photos** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/07dc9a3e-e54c-4ef0-bebc-f0bf6cc82fa8" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/8609661f-5a31-40cd-b743-29577a256f2f" /> **Google Drive** `-` **MEGA** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/9b515e87-c970-4925-88bd-e780929586a1" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/4e8e2405-2aa5-45ae-9480-50bd08356890" /> **Google Maps** `-` **Organic Maps** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/fb419a73-2600-470d-957c-58fa3491e99c" />
+    - If you have issues with it (for example because you are in an unpopulous area), you can prefer Google Maps without logging in.
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/3f8f963f-c12d-4405-908a-8ecf0e18d858" /> **Google Password Manager** `-` **Bitwarden Password Manager** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/a33b3d23-3790-4340-989f-29b557ba40b6" />
+- <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/0cfc0cda-e884-417e-b674-55dd47b92e06" /> <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/180307d5-29bf-4fe6-a354-0ba8a3f69cdf" /> **Microsoft Office / WPS Office** `-` **OnlyOffice** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/d53736e6-eb1c-4fa1-983e-bbb062081dbb" />
+- **Adobe Products** <img width="16" height="25" alt="adobe" src="https://github.com/user-attachments/assets/fd0f70db-508b-4696-94e6-179eba051189" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/8b4d7cab-1020-4de8-adb6-08d7d64f5287" /> **Photoshop** `-` **GIMP <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/cee968c1-dd07-46e6-83e2-65b453fe9d3e" /> or Photopea <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/0ba5a128-1697-4060-a370-c49613c5825c" />** 
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/5399e4e7-a549-4d65-9830-da15d18ad35c" /> **Lightroom** `-` **Krita <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/d2bad01f-e03d-43e6-a319-0097783ff5d5" /> or Darktable** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/2c41b7ad-a799-4590-aee8-44b500a3c5b2" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/c8b21eb2-6a57-46c3-9940-925191ab934f" /> **Illustrator** `-` **Inkscape** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/588cc7d8-2729-44d3-a46e-faf3003ba086" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/62d782c0-97f2-43f6-a476-a9ef1f623869" /> **Premiere** `-` **Kdenlive <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/54decfe6-2b9b-4d2e-ac5f-e3d44a550667" /> or Shotcut** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/1c380f83-f0d4-4bb2-9b3b-33fc95fc0b49" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/9f217080-4311-4740-8477-561a1b9a5109" /> **After Effects** `-` **Blender** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/07039711-39b0-4f4b-b6f8-b058e57c109b" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/f4a987ef-b373-40c7-9d53-e1b1580d4f92" /> **Audition** `-` **Audacity** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/364d57f0-c1b2-4949-b528-4ea347abe89d" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/1f51c426-5225-44de-bd5c-424bf28d51de" /> **Acrobat Reader and Editor** `-` **Okular** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/cff8e172-3e58-4305-b644-862afce6be95" />
+  - <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/44d13275-322c-4e05-a741-0b95dbfa312f" /> **Dreamweaver** `-` **VSCodium** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/3ed6f803-db07-4352-9f17-7dc810d320e5" />
+- <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/61891302-c3db-4b5f-8faa-39d8320e6c09" /> **Notion** `-` **Joplin** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/af633737-11cb-4a86-8694-d847de425e08" />
+- <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/f3e280bd-9498-4313-9523-da6e017db652" /> **YouTube Android App** `-` **YouTube ReVanced** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/3f61b0b4-0c4d-4ff8-a4fe-7e3eb4bd711d" />
+- <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/295341a7-3ba3-4b82-b317-4ea19e7eb704" /> **Discord Desktop App** `-` **Vesktop** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/3b6b8512-bd94-4bc8-ac4d-48d1420bae61" />
+- <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/c22ab7a9-a205-4db3-8046-20f39b38d91d" /> **CCleaner** `-` **Bleachbit** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/031c4c09-4e72-4674-b06c-c9b7af883505" />
+- <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/45d1baee-e406-4c8e-ae70-416bb35e8027" /> **uTorrent** `-` **qBittorrent** <img width="16" height="25" alt="image" src="https://github.com/user-attachments/assets/ca1efe79-f9d8-42fc-a855-eeb543f49e4b" />
 # Conclusion
-This guide was about a completely free privacy guide. I hope the guide has been useful. Thank you for reading, have a nice day! 🐧
+This guide was about a completely free privacy guide. I hope the guide has been useful. Thank you for reading!
